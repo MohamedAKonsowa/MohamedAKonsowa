@@ -31,7 +31,7 @@
 
 - 🤝 **Let’s Connect:**  
   – 📧 mkonma647@gmail.com  
-  – 🌐 [linkedin.com/in/mohamedkonsowa](https://www.linkedin.com/in/mohamedkonsowa)  
+  – 🌐 [linkedin.com/in/mohamedkonsowa]([https://www.linkedin.com/in/mohamedkonsowa](https://www.linkedin.com/in/mohamed-konsowa-947709261/))  
   – 📂 [github.com/MohamedAKonsowa](https://github.com/MohamedAKonsowa)
 
 > “Pushing the boundaries of AI in immersive environments—one model, one world at a time.”  
