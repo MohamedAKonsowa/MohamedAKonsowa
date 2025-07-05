@@ -30,7 +30,7 @@
   – Ethical AI, cybersecurity, and privacy in ML systems  
 
 - 🤝 **Let’s Connect:**  
-  – 📧 mohamed.konsowa@louisville.edu  
+  – 📧 mkonma647@gmail.com  
   – 🌐 [linkedin.com/in/mohamedkonsowa](https://www.linkedin.com/in/mohamedkonsowa)  
   – 📂 [github.com/MohamedAKonsowa](https://github.com/MohamedAKonsowa)
 
