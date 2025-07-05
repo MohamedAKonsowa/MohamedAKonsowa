@@ -11,13 +11,13 @@
   – Developing **AI-powered anomaly detection** pipelines (Scylla project)  
   – Researching **multimodal dementia detection** using eye-tracking heatmaps & audio signals
 
-- 🛠️ **Tech Stack:**
-  - **Languages:** Python, Java, C++, C, JavaScript, HTML/CSS, SQL  
-  - **ML & Data:** PyTorch, TensorFlow, Hugging Face, scikit-learn, Optuna  
-  - **Web & APIs:** Flask, Django, FastAPI, REST, React  
-  - **VR & Game Dev:** Unreal Engine 4/5, VR Expansion Plugin, HTC Vive Pro, SRanipal eye tracking  
-  - **Tools:** Git, Docker, VS Code, Jupyter, GitHub Actions, Arduino  
-  - **Domains & Specialties:** Deep Learning, NLP, Computer Vision, Multimodal AI, RAG, GANs, MCP, AI VR
+- 🛠️ **Tech Stack:**  
+  – **Languages:** Python, Java, C++, C, JavaScript, HTML/CSS, SQL  
+  – **ML & Data:** PyTorch, TensorFlow, Hugging Face, scikit-learn, Optuna  
+  – **Web & APIs:** Flask, Django, FastAPI, REST, React  
+  – **VR & Game Dev:** Unreal Engine 4/5, VR Expansion Plugin, HTC Vive Pro, SRanipal eye tracking  
+  – **Tools:** Git, Docker, VS Code, Jupyter, GitHub Actions, Arduino  
+  – **Domains & Specialties:** Deep Learning, NLP, Computer Vision, Multimodal AI, RAG, GANs, MCP, AI VR, Embedded Systems  
 
 - 🔍 **Research & Projects:**  
   – **Dementia Classification:** Ensemble models combining text/audio/eye-tracking data (F1 ≈ 0.88)  
